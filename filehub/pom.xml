@@ -10,11 +10,11 @@
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>org.jointwork</groupId>
-    <artifactId>filehub</artifactId>
+    <groupId>org.jointwork.filehub</groupId>
+    <artifactId>filehub-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>filehub</name> <!-- FIXME change it to the project's website -->
+    <name>filehub-parent</name> <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
     <properties>
